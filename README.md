@@ -115,5 +115,5 @@ This GitHub profile is dedicated to documenting my learning journey, RTL designs
 ## 📫 Contact
 
 * 📧 Email: [yaswanth.chowdary146@gmail.com](mailto:yaswanth.chowdary146@gmail.com)
-* 💼 LinkedIn: Add your LinkedIn profile link here
+* 💼 LinkedIn:https://www.linkedin.com/in/yaswanth-yanamadala-ab8283334/
 
