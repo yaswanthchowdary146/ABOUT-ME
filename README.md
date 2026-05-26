@@ -1,38 +1,119 @@
 # ABOUT-ME
-## 👋 Hi, I’m YANAMADALA YASWANTH
 
-I am a 2025 B.Tech graduate with a strong interest in **Digital Design and Design Verification**.
+# Hi, I'm YANAMADALA YASWANTH 👋
 
-I have hands-on experience in **Verilog RTL design** and **testbench development**, and I regularly use **QuestaSim** for simulation and debugging. I enjoy understanding how digital systems work at the block and datapath level and verifying their correctness through structured testbenches.
+🎓 2025 B.Tech Graduate in Electronics & Communication Engineering
+🔍 Aspiring Design Verification Engineer | RTL Design & Functional Verification Enthusiast
+📍 Hyderabad, India
 
-### 🔧 Technical Skills
-- Verilog HDL
-- Digital Logic Design
-- RTL Design & Hierarchical Modeling
-- Self-checking Testbenches
+I am passionate about Digital Design and Functional Verification with hands-on experience in Verilog, SystemVerilog, constrained-random verification, assertions, and coverage-driven methodologies.
+
+I actively build verification environments, debug protocols using waveform analysis, and develop reusable SystemVerilog testbenches using OOP concepts.
+
+---
+
+## 🔧 Technical Skills
+
+### HDL & Programming
+
+* Verilog HDL
+* SystemVerilog
+* SystemVerilog OOP
+* C Programming
+
+### Verification Skills
+
+* Constrained Random Verification
+* Coverage-Driven Verification
+* Functional Coverage
+* Code Coverage
+* SystemVerilog Assertions (SVA)
+* Regression Testing
+* Testbench Development
+* Waveform Debugging
+
+### Digital Design
+
+* RTL Design
+* FSM Design
+* ASIC Design Flow
+* Static Timing Analysis (STA)
+* CMOS Fundamentals
+* CDC Synchronization
+
+### Protocols
+
+* AMBA-APB
+* AMBA-AHB
+* UART
+* I2C
 
 ### Tools
-- QuestaSim
-- Gvim
-- vivado
 
-### 📘 Currently Learning
-- SystemVerilog
-- UVM (Universal Verification Methodology)
-- Verification of standard protocols (UART, I2C, AMBA – upcoming)
+* Questa Sim
+* ModelSim
+* Vivado
+* EDA Playground
+* GVim
 
-### 🛠 Projects
-- **4-bit Comparator (Verilog)**  
-  Hierarchical design using 1-bit comparator blocks with an exhaustive self-checking testbench.
+---
 
-- **GCD Accelerator**  
-  Implemented datapath  and control path(FSM) using modular blocks such as mux, comparator, registers, and subtractor.
+## 📘 Currently Learning
 
-- **RISC-V Processor**  
-  Designed and understood instruction flow through register file, ALU, and datapath multiplexing.
+* UVM (Universal Verification Methodology)
+* Advanced AMBA Protocol Verification
+* Assertion-Based Verification
+* Coverage Closure Techniques
 
-### 🎯 Career Objective
-To start my career as a **Design Verification Engineer**, where I can apply my RTL and verification skills, learn industry-standard methodologies, and grow as a verification professional.
+---
 
-📌 I use this GitHub profile to document my learning and projects as I progress toward industry-ready DV skills.
+# 🛠 Featured Projects
+
+## 🔹 AMBA-APB Protocol Design & Verification
+
+* Designed complete APB architecture with master, slaves, and interconnect
+* Developed modular OOP-based SV testbench
+* Implemented constrained-random verification and SVA
+* Achieved 80%+ functional coverage
+* Verified read/write operations, timeout logic, and PSLVERR behavior
+
+## 🔹 UART Design & Verification
+
+* Designed UART TX/RX with configurable baud rates
+* Built reusable layered verification environment
+* Executed regression testing with corner-case validation
+* Achieved 95%+ functional coverage
+
+## 🔹 Asynchronous FIFO Design & Verification
+
+* Implemented dual-clock FIFO with Gray code synchronization
+* Verified CDC behavior using assertions
+* Tested overflow, underflow, full, and empty conditions
+* Achieved 98% functional coverage
+
+## 🔹 RISC-V RV32I Processor
+
+* Designed 32-bit single-cycle RISC-V processor
+* Implemented ALU, register file, control logic, and datapath
+* Verified instruction execution using hierarchical testbenches
+* Debugged branch and memory-stage datapath issues
+
+---
+
+## 🎯 Career Objective
+
+To begin my career as a Design Verification Engineer where I can contribute to RTL and functional verification projects, work with industry-standard methodologies like UVM, and continuously improve my verification expertise.
+
+---
+
+## 📌 GitHub Purpose
+
+This GitHub profile is dedicated to documenting my learning journey, RTL designs, verification environments, and protocol-based projects as I grow toward becoming an industry-ready Verification Engineer.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [yaswanth.chowdary146@gmail.com](mailto:yaswanth.chowdary146@gmail.com)
+* 💼 LinkedIn: Add your LinkedIn profile link here
 
